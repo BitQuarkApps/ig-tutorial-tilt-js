@@ -1,4 +1,4 @@
-# Implementa Particles.js en tu sitio web
+# Implementa Tilt.js en tu sitio web
 
 Este código fue escrito por [Bitquark](https://bitquark.com.mx).
 
